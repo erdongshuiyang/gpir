@@ -1,0 +1,8 @@
+prefix=/home/erdong2004/GPIR_planner_ws/install
+
+Name: hdmap
+Description: Description of hdmap
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

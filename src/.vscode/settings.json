@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/erdong2004/GPIR_planner_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "",
+        "/home/erdong2004/CARLA_0.9.11/PythonAPI/carla/dist/carla-0.9.11-py3.7-linux-x86_64.egg",
+        "/home/erdong2004/CARLA_0.9.11/PythonAPI/carla"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/erdong2004/GPIR_planner_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "",
+        "/home/erdong2004/CARLA_0.9.11/PythonAPI/carla/dist/carla-0.9.11-py3.7-linux-x86_64.egg",
+        "/home/erdong2004/CARLA_0.9.11/PythonAPI/carla"
+    ]
+}

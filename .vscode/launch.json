@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ROS: Launch Planning",
+            "type": "ros",
+            "request": "launch",
+            "target": "/home/erdong2004/GPIR_planner_ws/src/gpir/planning_core/launch/planning.launch",
+            "env": {
+                "ROS_MASTER_URI": "http://localhost:11311",
+                "ROS_PACKAGE_PATH": "/home/erdong2004/GPIR_planner_ws/src"
+            },
+            "preLaunchTask": "source_ros_workspace",  // 确保 ROS 环境已正确加载
+            "args": [],
+            // "output": "screen"
+            "output": "log"
+        }
+    ]
+}

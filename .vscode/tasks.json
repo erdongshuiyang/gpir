@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "source_ros_workspace",
+            "type": "shell",
+            "command": "source /opt/ros/noetic/setup.bash && source /home/erdong2004/GPIR_planner_ws/devel/setup.bash",
+            "problemMatcher": [],
+            "group": "build"
+        }
+    ]
+}
+

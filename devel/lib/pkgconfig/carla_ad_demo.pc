@@ -1,0 +1,8 @@
+prefix=/home/erdong2004/GPIR_planner_ws/devel
+
+Name: carla_ad_demo
+Description: Description of carla_ad_demo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

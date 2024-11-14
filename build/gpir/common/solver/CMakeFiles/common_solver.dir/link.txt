@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -Wextra -march=native -O2  -shared -Wl,-soname,libcommon_solver.so -o /home/erdong2004/GPIR_planner_ws/devel/lib/libcommon_solver.so CMakeFiles/common_solver.dir/osqp/osqp_interface.cc.o  -lglog /usr/local/lib/libosqp.a 
